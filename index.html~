@@ -3,15 +3,9 @@
 
   <head>
     <meta charset="utf-8">
-    <! -- Added viewport settings to make it work on a mobile phone. Do n't 
-    worry about it; just copy and past -->
-    <meta name = "viewport" content = "width=device-width, intial - scale =1.
-    0, maximum - scale =1.0, user-scalable = no">
-    <! -- Changed titile to my name. The title will show up in the browser tab! -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Christian P</title>
+    <title>Savory</title>
     <link rel="stylesheet" type="text/css" href="reset.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
   </head>
@@ -21,18 +15,11 @@
     <div class="container">
 
       <header>
-        <div class="wrapper">
-          <h1>Christian Pickard</h1>
-            <p class="bio"> Hi! My name is Christian Pickard, and I am from Mount Airy, MD. I like Skiing. I personally am not sure sure of what this website it, but that's not important. It's important that I put something.
-            </p>
-          <div class="buttonBox">
-            <a class="myButton" href="#projects">Go</a>
-          </div>
-        </div>
+        <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/savory.svg" class="logo">
       </header>
 
-      <main id = "projects>
-                <div class="recipe a">
+      <main>
+        <div class="recipe a">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
           <h2>CHOCOLATE MOUSSE</h2>
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
