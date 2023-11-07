@@ -7,7 +7,7 @@ html {
 body {
   margin: 0;
 }header, footer {
-  background-color: #ffa500;
+  background-color: #432817;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -43,7 +43,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #006d77;
   padding: 10px 0px 10px 10px;
 }
 
@@ -61,7 +61,7 @@ img {
 .bio {
 color: #ffffff;
 font-size: 24px;
-font-family: 'Work Sans';
+font-family: 'Karla';
 }
 .buttonBox {
   display: flex;
@@ -121,15 +121,15 @@ font-family: 'Work Sans';
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: Karla;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #06d6a0;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  border-top: 1px solid #06d6a0;
 }
 
 .logo {
