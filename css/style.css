@@ -6,15 +6,16 @@ html {
 /* Set the margin to 0 to make sure the page stretches all the way to the edge of the browser window. */
 body {
   margin: 0;
+  background-color: #c299ce;
 }header, footer {
-  background-color: #432817;
+  background-color: #669915;
   text-align: left;
 /*  min-width: 500px; */
 }
 header {
   font-family: Work Sans;
   color: #fff;
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
 }
 
@@ -59,8 +60,8 @@ img {
 }
 
 .bio {
-color: #ffffff;
-font-size: 24px;
+color: #000505;
+font-size: 45px;
 font-family: 'Karla';
 }
 .buttonBox {
@@ -127,17 +128,10 @@ font-family: 'Karla';
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #06d6a0;
-  padding: 10px 0px 10px 10px;
-  border-top: 1px solid #06d6a0;
+  color: #000306;
+  padding: 5px 0px 5px 5px;
 }
 
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
-}
 
 
   .container {
@@ -146,8 +140,16 @@ font-family: 'Karla';
     }
 
 
-footer {
-  margin-top: 44px;
-}
+    footer div {
+      height: 100%;
+      font-family: Work Sans;
+      font-size: 14px;
+      display: flex;
+      align-content: center;
+      padding: 10px 20px;
+      color: rgba(255, 255, 255, 0.5);
+    }
+ 
+
 
 
